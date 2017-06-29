@@ -1,0 +1,88 @@
+body { padding-top: 75px; }
+
+.jumbotron {
+  background-color: black;
+  opacity: 0.75;
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.one {
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.col-md-3 {
+  margin-bottom: 15px;
+}
+
+.right {
+  float: right;
+}
+
+.text-right {
+  color: #EE66CD;
+}
+
+.thumbnail {
+  height: 315px;
+}
+
+
+.glyphicon-sunglasses {
+  margin: 0 5px;
+}
+
+.glyphicon-heart {
+  margin: 0 5px;
+  color: red;
+}
+
+.glyphicon-tree-conifer {
+  margin: 0 5px;
+  color: green;
+}
+
+.glyphicon-asterisk {
+  margin: 0 5px;
+}
+
+.glyphicon-fire {
+  margin: 0 5px;
+  color: orange;
+}
+
+.glyphicon-copyright-mark {
+  margin: 0 10px;
+}
+
+.caption {
+  text-align: center;
+}
+
+.form-inline {
+  margin-bottom: 5px;
+  float: right;
+}
+
+.panel-footer {
+  background-color: @gray-light:   lighten(#000, 46.7%); // #777
+}
+
+.form-control {
+  height: 20px;
+}
